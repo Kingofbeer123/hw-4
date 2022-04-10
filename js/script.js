@@ -1,4 +1,4 @@
-for (let i = 0; i < 100; i++) {
+for (let i = 0;; i++) {
     let a = prompt("break or continue??");
     if (a==='break')break;
     if (a==='continue')continue;
